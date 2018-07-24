@@ -1,0 +1,3 @@
+[submodule "composability_bench"]
+	path = composability_bench
+	url = git@github.com:IntelPython/composability_bench.git
